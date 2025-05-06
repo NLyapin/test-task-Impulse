@@ -1,0 +1,3 @@
+/Users/nikitalapin/Downloads/test-task/build/CMakeFiles/fft.dir
+/Users/nikitalapin/Downloads/test-task/build/CMakeFiles/edit_cache.dir
+/Users/nikitalapin/Downloads/test-task/build/CMakeFiles/rebuild_cache.dir
